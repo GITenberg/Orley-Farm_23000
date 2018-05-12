@@ -23,6 +23,8 @@ description: "Orley Farm is a novel written in the realist mode by Anthony Troll
   \ a school, which was originally supposed to be the feeder school to Harrow School.\
   \ It was renamed Orley Farm School after the novel, with Trollope's permission.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23000#Orley-Farm
 gutenberg_issued: '2007-10-13'
 gutenberg_type: Text
 identifiers:
