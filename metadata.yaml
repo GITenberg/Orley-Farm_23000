@@ -1,0 +1,46 @@
+_repo: Orley-Farm_23000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Orley Farm is a novel written in the realist mode by Anthony Trollope\
+  \ (1815–82), and illustrated by the Pre-Raphaelite artist John Everett Millais (1829–96).\
+  \ It was first published in monthly shilling parts by the London publisher Chapman\
+  \ and Hall. Although this novel appeared to have undersold (possibly because the\
+  \ shilling part was being overshadowed by magazines, such as The Cornhill, that\
+  \ offered a variety of stories and poems in each issue), Orley Farm became Trollope's\
+  \ personal favourite. George Orwell said the book contained \"one of the most brilliant\
+  \ descriptions of a lawsuit in English fiction.\"\nThe house in the book was based\
+  \ on a farm in Harrow once owned by the Trollope family. The real-life farm became\
+  \ a school, which was originally supposed to be the feeder school to Harrow School.\
+  \ It was renamed Orley Farm School after the novel, with Trollope's permission.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23000'
+  wikidata: Q16962094
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Forgers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Landowners -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: Orley Farm
+url: http://www.gutenberg.org/ebooks/23000
+wikipedia:
+- https://en.wikipedia.org/wiki/Orley_Farm_(novel)
